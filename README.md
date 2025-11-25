@@ -67,7 +67,7 @@ src/
 ## 📜 Authors
 - Asad Amad Sheikh 22i-1329  
 - Hamza Saleem 22i-1185  
-- Umer Javed21i-0412  
+- Umer Javed 21i-0412  
 
 ---
 
