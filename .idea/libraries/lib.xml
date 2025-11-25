@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/22i1185-22i1329-21i0412/lib/sqlite-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/22i1185-22i1329-21i0412/lib/flatlaf-3.2.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
